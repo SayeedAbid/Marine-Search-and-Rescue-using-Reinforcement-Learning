@@ -5,7 +5,7 @@ import torch.optim as optim
 import torch.nn.functional as F
 import os
 
-
+#new update
 #FEED FORWARD NETWORK
 class Linear_QNet(nn.Module):
 
